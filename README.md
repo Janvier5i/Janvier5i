@@ -1,10 +1,15 @@
-### Hi there 👋, Janvier Iyakaremye
+### Hi there 👋, I'm Janvier Iyakaremye
 #### persuing Computer Egnineering
 ![Computer Egnineering](https://github.com/Janvier5i/Janvier5i/blob/main/Screenshot%202023-05-16%20015723.png)
 
 I am a Computer Engineering student with a strong interest in database systems and back-end development in Django.
+## Skills and Experience
+# Django
+💻 JS, HTML, CSS
+👨‍💻 Python
+# SQL Database
 
-Skills: DJANGO / JS / HTML / CSS/PYTHON/JAVA/MYSQL
+
 
 
 
