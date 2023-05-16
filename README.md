@@ -4,10 +4,10 @@
 
 I am a Computer Engineering student with a strong interest in database systems and back-end development in Django.
 ## Skills and Experience
-# Django
-💻 JS, HTML, CSS
-👨‍💻 Python
-# SQL Database
+* 🔯 Django
+* 💻 JS, HTML, CSS
+* 👨‍💻 Python
+* SQL Database
 
 
 
