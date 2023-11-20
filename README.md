@@ -1,6 +1,6 @@
 ![Computer Egnineering](https://github.com/Janvier5i/Janvier5i/blob/main/Screenshot%202023-05-16%20015723.png)
 # Janvier Iyakaremye
-I am a Computer Engineering student with a strong interest in database systems and back-end development in Django.
+I am a mobile app developer with strong interest in and passion in developing apps that runs multi-platforms using flutter framework. I deliver quality products
 ## Skills and Experience
 * 🔯 Flutter Developer
 * 📱 Mobile App Developer
