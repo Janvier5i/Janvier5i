@@ -2,7 +2,7 @@
 # Janvier Iyakaremye
 I am a mobile app developer with strong  passion in developing apps that runs multi-platforms using flutter framework. I deliver quality products
 ## Skills and Experience
-* 📱 Flutter Developer
+* 📱 Java & Flutter Developer
 * 👨‍💻 Java, Dart
 
 
